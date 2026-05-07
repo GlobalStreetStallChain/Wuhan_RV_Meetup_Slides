@@ -1,0 +1,9 @@
+[submodule "img-os-driver-status-202604"]
+	path = img-os-driver-status-202604
+	url = https://github.com/Icenowy/img-os-driver-status-202604
+[submodule "presentation"]
+	path = presentation
+	url = https://github.com/ziyao233/presentation.git
+[submodule "p"]
+	path = p
+	url = https://github.com/Z572/p.git
